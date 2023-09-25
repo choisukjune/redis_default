@@ -16,4 +16,4 @@ spec:
               serviceName: backend
               servicePort: 3000
             # 여러분의 app path 를 넣어주세요.
-            path: /kaa743fdf8b25a(/|$)(.*)
+            path: /k4849b2b0c5cba(/|$)(.*)
